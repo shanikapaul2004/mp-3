@@ -60,7 +60,7 @@ function Home() {
                 name="Shanika Paul"
                 description="My name is Shanika Paul and I am a junior studying computer science at Boston University.
                     My career goal is to contribue to projects that have a significant impact on our faily lives through technology."
-                image="./src/me.png"
+                image="/me.png"
             />
 
             <Subtitle>About Me</Subtitle>
